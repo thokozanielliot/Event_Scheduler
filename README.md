@@ -45,3 +45,4 @@ python manage.py runserver
 - Editing, Deleting an Event Or Accessing an Event
     - `http://127.0.0.1:8000/events/pk`
     - Example `http://127.0.0.1:8000/events/1`
+    
