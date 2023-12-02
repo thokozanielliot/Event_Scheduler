@@ -46,3 +46,5 @@ python manage.py runserver
     - `http://127.0.0.1:8000/events/pk`
     - Example `http://127.0.0.1:8000/events/1`
     
+- Creating a user Account
+    -`http://127.0.0.1/accounts/`
